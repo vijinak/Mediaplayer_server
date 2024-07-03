@@ -1,0 +1,74 @@
+{
+  "videos": [
+    {
+      "caption": "Kar Gayi Chull ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHrcdJyr-62U2pcmOWo5LGmSHIF4EMpYCyQ&s",
+      "url": "https://www.youtube.com/embed/awD-0TYEZX4",
+      "id": 1
+    },
+    {
+      "caption": "Tumhi Ho Bandhu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07LukTnuuy8t5Tn-GU-ZtPnFoGDlbBQR4Qg&s",
+      "url": "https://www.youtube.com/embed/XZ_FhvNI74c",
+      "id": 2
+    },
+    {
+      "caption": "illuminandi",
+      "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "malayalam songs",
+      "allVideo": [
+        {
+          "caption": "Tumhi Ho Bandhu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07LukTnuuy8t5Tn-GU-ZtPnFoGDlbBQR4Qg&s",
+          "url": "https://www.youtube.com/embed/XZ_FhvNI74c",
+          "id": 2
+        },
+        {
+          "caption": "illuminandi",
+          "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi Songs",
+      "allVideo": [
+        {
+          "caption": "Tumhi Ho Bandhu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07LukTnuuy8t5Tn-GU-ZtPnFoGDlbBQR4Qg&s",
+          "url": "https://www.youtube.com/embed/XZ_FhvNI74c",
+          "id": 2
+        },
+        {
+          "caption": "Kar Gayi Chull ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHrcdJyr-62U2pcmOWo5LGmSHIF4EMpYCyQ&s",
+          "url": "https://www.youtube.com/embed/awD-0TYEZX4",
+          "id": 1
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "illuminandi",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "26/06/2024, 01:11:54",
+      "id": 3
+    },
+    {
+      "caption": "Kar Gayi Chull ",
+      "url": "https://www.youtube.com/embed/awD-0TYEZX4",
+      "timeStamp": "26/06/2024, 01:45:45",
+      "id": 1
+    }
+  ]
+}
